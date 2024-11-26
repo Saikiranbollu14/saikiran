@@ -221,8 +221,6 @@ const UserManagement = () => {
                             Data Import
                           </span>
                         </td>
-
-                        <td className="px-4 py-2 text-gray-600">Mar 4, 2024</td>
                         <td className="px-4 py-2 text-gray-600">Mar 4, 2024</td>
                         <td className="px-4 py-2 text-gray-600">July 4, 2022</td>
                         <td className="px-4 py-2 text-center">
